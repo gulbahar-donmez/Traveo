@@ -1,0 +1,56 @@
+.kirikkale{
+	color: black;
+	font-style: bold;
+	background-color: white;
+	 opacity: 0.75;
+}
+
+.istanbul{
+	color: black;
+	font-style: bold;
+	background-color: white;
+	 opacity: 0.75;
+}
+
+.aydin{
+	color: black;
+	font-style: bold;
+	background-color: white;
+	 opacity: 0.75;
+}
+
+.antalya{
+	color: black;
+	font-style: bold;
+	background-color: white;
+	 opacity: 0.75;
+}
+
+
+.w3-badge.w3-right.w3-margin-right {
+  background-color: red;
+  
+  color: white;
+  border: none;
+  /*
+  padding: 10px 20px;
+  font-size: 16px;
+  */
+  border-radius: 5px;
+
+  cursor: pointer;
+  animation: blink 2s infinite;
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+.w3-bar-item-w3-padding-small-w3-hide-small{
+	border:none;
+}
